@@ -1,0 +1,41 @@
+28,11,2022
+notaði grouppadd til að bæta við hópunum: allir,forritun,markadsmal
+
+29.11.2022
+í root var gert mkdir GÖGN og hinar skráirnar
+
+notaði chmod ti að breita hvaða hópar voru með hvað
+
+notaði chmod 770 til að breita premisions
+
+30.11.2022
+
+notaði useradd -u 1010 sem hækkar fyrir hvern user -g allir -G réttur hópur -m -c 'Fult nafn' user
+
+passwd user 123 fyrir alla
+
+gerði link með ln -s /GÖGN /home/notandin/
+
+5.12.2022
+
+bætti við öllum userum og kláraði möppurnar
+
+sudo usermod -aG sudo <user> var notað
+
+passwd --expire <user> er notað á alla
+
+passwd -l <user> er notað fyrir erlendur og erlu
+
+usermod -s /bin/bash <user> því ég gleimdi að gera það fyrst
+
+gerði ssh likil fyrir símdarvélina
+
+6.12.2022
+
+síndi kennara
+
+bjó til útskíringu fyrir áslaug
+
+
+
+

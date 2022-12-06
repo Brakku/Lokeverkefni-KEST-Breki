@@ -1,0 +1,19 @@
+Halló áslaug hér eru leiðbiningar til að gera nía usera og tila læsa eða aflæsa user password
+
+ekki skrifa það sem er með ()
+Að búa til nían user:
+
+fyrst þarftu að gera 
+
+sudo useradd -u 1017 (sem hækkar fyrir hvern user) -s /bin/bash -g allir -G <hópur>,<annar hópur>,osf  (hópurin sen userin verður í) -m -c 'Fult nafn' <notenda nafn>
+
+sudo passwd <user>
+>>> <password>
+(síðan passwordið sem userin vill)
+
+
+til að læsa eða aflæsa user:
+
+sudo passwd -l <user> (til að læsa)
+
+sudo passwd -u <user> (til að aflæsa)
