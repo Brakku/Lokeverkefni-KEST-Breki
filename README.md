@@ -4,7 +4,12 @@
 þetta er git skrá fyrir lokaverkefni í KEST
 
 
+## innihald í /home
+
 ![image](https://user-images.githubusercontent.com/88351016/205631851-5e67e403-5725-40c9-ada6-55783f0cd2fb.png)
+
+
+## aðrir hlutir sem átti að sína
 
 
 ![image](https://user-images.githubusercontent.com/88351016/205632261-8e5814be-cb71-410f-91a2-b658ecfca30c.png)
